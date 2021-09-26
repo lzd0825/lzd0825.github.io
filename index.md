@@ -23,3 +23,4 @@
 - [3] Zhandong Liu; Wengang Zhou; Houqiang Li*; Scene Text Detection with Fully Convolutional Neural Networks, Multimedia Tools and Applications, 2019, 78(13)：18205-18227.
 
 - [4] Zhandong Liu; Yong Li; Xiangwei Qi; Yong Yang; Mei Nian; Haijun Zhang*; Reziwanguli Xiamixiding; Method for unconstrained text detection in natural scene image, IET Computer Vision, 2017, 11(7)：596-604.
+ 
