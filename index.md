@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+###个人信息
 
-You can use the [editor on GitHub](https://github.com/lzd0825/lzd0825.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+####姓名：刘战东
+####学历：工学博士
+####职称：副教授 
+####邮箱：lzd0825@163.com
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+###研究方向 目标检测、目标跟踪、实例分割、语义分割、智能交通
 
-### Markdown
+###科研项目 [1] 国家自然科学基金委员会, 地区科学基金项目，62162061，道路交叉口交通异常事件检测与信号灯配时方法研究，2022/01-2025/12，在研，主持。 [2] 新疆维吾尔自治区科技厅，自然科学基金面上项目，2020D01A73，基于深度学习的多语种场景文字提取技术研究，2020.06-2023.05，在研，主持。 [3] 国家自然科学基金委员会, 地区科学基金项目，61662082，维吾尔文自然场景文本检测与识别方法研究，2017/01-2020/12，已结项，主持。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lzd0825/lzd0825.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+###科研论文 [1] Zhandong Liu; Wengang Zhou*; Houqiang Li*; MFECN: Multi-level Feature Enhanced Cumulative Network for Scene Text Detection, ACM Transactions on Multimedia Computing Communications and Applications, 2021, 3(17):1-22. [2] Zhandong Liu; Wengang Zhou; Houqiang Li*; AB-LSTM: Attention-based Bidirectional LSTM Model for Scene Text Detection, ACM Transactions on Multimedia Computing Communications and Applications, 2019, 15(4):1-23.
+[3] Zhandong Liu; Wengang Zhou; Houqiang Li*; Scene Text Detection with Fully Convolutional Neural Networks, Multimedia Tools and Applications, 2019, 78(13)：18205-18227.
+[4] Zhandong Liu; Yong Li; Xiangwei Qi; Yong Yang; Mei Nian; Haijun Zhang*; Reziwanguli Xiamixiding; Method for unconstrained text detection in natural scene image, IET Computer Vision, 2017, 11(7)：596-604.
