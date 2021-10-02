@@ -2,12 +2,15 @@
 <div>
 <table border="0">
   <tr>
-    <td width="100%">
+    <td width="75%">
       <h1>刘战东</h1>
       <p><b>学历：工学博士</b></p>
       <p><b>职称：副教授 </b></p>
       <p><b>学院：计算机科学技术学院 </b></p>
       <p><b>邮箱：lzd0825@163.com</b></p>
+    </td>
+    <td width="25%">
+      <img src="/a.jpg" width="100%">
     </td>
   </tr>
 </table>
