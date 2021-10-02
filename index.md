@@ -27,7 +27,7 @@
 
 [3] 国家自然科学基金委员会, 地区科学基金项目，61662082，维吾尔文自然场景文本检测与识别方法研究，2017/01-2020/12，已结项，主持。
 
-### 科研论文
+### 代表论文
 [1] Zhandong Liu; Wengang Zhou*; Houqiang Li*; MFECN: Multi-level Feature Enhanced Cumulative Network for Scene Text Detection, ACM Transactions on Multimedia Computing Communications and Applications, 2021, 3(17):1-22. 
 
 [2] Zhandong Liu; Wengang Zhou; Houqiang Li*; AB-LSTM: Attention-based Bidirectional LSTM Model for Scene Text Detection, ACM Transactions on Multimedia Computing Communications and Applications, 2019, 15(4):1-23.
